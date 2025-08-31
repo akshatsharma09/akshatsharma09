@@ -58,7 +58,7 @@
 ## 🌍 Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akshatsharma09)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Caksh/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/akshat-sharma-2433b1274)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/akshat-sharma-2433b1274](https://www.linkedin.com/in/akshat-sharma-2433b1274?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
 
 ---
 
