@@ -1,7 +1,6 @@
 # 👋 Hey, I’m Akshat Sharma  
 
-🚀 **Tagline:** *Code. Learn. Break. Start Again.*  
-🎓 20 years   
+🚀 **Tagline:** *Code. Learn. Break. Start Again.*    
 💡 Passionate about **AI, Machine Learning & Cloud Technologies**  
 ⚡ Playful yet technical | Always curious, always building  
 
